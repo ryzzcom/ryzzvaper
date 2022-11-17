@@ -1,0 +1,311 @@
+body{
+    background-color: black;
+    color: white;
+}
+.navbar{
+    background-color: black;
+    color: white;
+}
+.logo p{
+    color:#ecc781;
+}
+.navbar a{
+    color: white;
+}
+.navmid{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #F2A00B;
+}
+.logo{
+    padding-left: 10px;
+    
+}
+.logo strong{
+    font-size: 30px;
+    color: #F2A00B;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mod{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    color: #F2A00B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pod{
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    color: #F2A00B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.line{
+    margin-left: 150px;
+}
+.banner{
+    padding: 30px;
+    border-radius: ;
+}
+.text h1{
+    text-decoration: dashed;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #F2A00B;
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-style: bold;
+}
+.text span{
+    color: ;
+}
+span strong{
+    color: red;
+
+}
+.banner2{
+    height: 630px;
+    border-radius: 50%;
+}
+.banner3{
+    height: 630px;
+    border-radius: 50%;
+}
+.Service{
+    color: #F2A00B;
+    font-size: 50px;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+.purchase{
+    padding: 120px 120px;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: start;
+    color: #F2A00B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mods{
+    padding: 70px 0px;
+    color: #F2A00B;
+    font-size: 30px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+
+}
+.pods{
+    padding: 70px 0px;
+    color: #F2A00B;
+    font-size: 30px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+}
+
+.flvr{
+    padding: 70px 0px;
+    color: #F2A00B;
+    font-size: 30px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+}
+.ul:hover{
+    text-decoration: underline;
+}
+.zoomout{
+    padding: 20px;
+}
+.zoomout:hover{
+    transform:scale(1.1)
+}
+.ser{
+    background-color: black;
+    /* margin: 20px 20px; */
+    margin-bottom: 30px;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+    color: #F2A00B;
+}
+.best{
+    margin: 40px;
+    color: #F2A00B;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 45px;
+    font-family: cursive;
+}
+.bparent{
+    padding: 20px;
+}
+.brand1{
+    background-color: rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(0, 0, 0, 0.253) 2px solid;
+}
+.brand1:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.brand2{
+    background-color: rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(5, 5, 5, 0.253) 2px solid;
+}
+.brand2:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.brand3{
+    background-color: rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(5, 5, 5, 0.253) 2px solid;
+}
+.brand3:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.brand4{
+    background-color:  rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(5, 5, 5, 0.253) 2px solid;
+}
+.brand4:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.brand5{
+    background-color:  rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(5, 5, 5, 0.253) 2px solid;
+}
+.brand5:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.brand6{
+    background-color: rgb(65, 14, 1);
+    padding: 2px 2px;
+    border:rgba(5, 5, 5, 0.253) 2px solid;
+}
+.brand6:hover{
+    transform:scale(0.9);
+    background-color: aqua;
+}
+.CATEGORY{
+    padding: 50px;
+    font-size: 45px;
+    color: rgb(100, 4, 4);
+    text-align: center;
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+.cparent{
+    margin: 20px 0px;
+}
+.cparent h5{
+    font-size: 40px;
+    color: #F2A00B;
+    text-decoration: dashed;
+    text-transform: uppercase;
+    font-family: monospace;
+}
+.card1{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+.card2{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+.card3{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+
+.card4{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+.card5{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+.card6{
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 35px;    
+}
+.card7{
+    margin: 40px 0px;
+    /* margin-left: 300px; */
+    text-align: center;
+    font-size: 35px;    
+}
+.outlet{
+    margin: 50px 0px;
+    width: 50%;
+}
+.outlet h1{
+    font-size: 35px;
+    color: #F2A00B;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form{
+    padding: 50px;
+    margin-bottom: 40px ;
+    width: 800px;
+}
+.insta{
+    padding: 50px 0px;
+    color: black;
+}
+.insta:hover{
+    padding: 1px;
+    border-radius: 16px;
+    background-color: #F2A00B;
+}
+.about li a{
+    color: white;
+    text-decoration: none;
+    text-align: ;
+}
+.color a{
+    color: white; 
+    padding-left: 1px;
+    text-decoration: none;
+}
+.color p{
+    padding-left: 150px;
+}
+.font h5{
+    color: red;
+}
+footer h5{
+    color:#F2A00B;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about li a:hover{
+    color: red;
+    text-decoration: underline;
+    
+}
+.fixed{
+    position: fixed;
+    bottom:0;
+    right: 0;
+}
+.fixed:hover{
+    transform: matrix(360);
+}
